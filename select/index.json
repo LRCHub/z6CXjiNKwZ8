@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "イマジナリーフレンド",
+  "base_artist": "Yuika",
+  "createdAt": "2025-12-04T02:17:52.874292Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イマジナリーフレンド",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/01_イマジナリーフレンド_『ユイカ』.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イマジナリーフレンド",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_01_イマジナリーフレンド_『ユイカ』.txt"
+    }
+  ]
+}
